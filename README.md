@@ -45,6 +45,6 @@ The datset contains the complete loan data for all loans issued through the time
 
 
 ## Contact
-Created by [@gVKVishnuVinod],[@githubusername]
+Created by [@gVKVishnuVinod],[@Vedant950]
 feel free to contact us!
 
