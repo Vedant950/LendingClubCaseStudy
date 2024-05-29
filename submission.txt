@@ -1,2 +1,0 @@
-GitHub Repo Link: "https://github.com/Vedant950/LendingClubCaseStudy"
-Group Members: ["Vishnu Vinod V K", "Vedant Tibrewal"]
